@@ -1,3 +1,4 @@
+process.env.UV_THREADPOOL_SIZE = 2; // default 4
 const crypto = require('crypto');
 
 const start = Date.now();
