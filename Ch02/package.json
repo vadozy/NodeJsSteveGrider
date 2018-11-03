@@ -1,0 +1,23 @@
+{
+  "name": "ch02",
+  "version": "1.0.0",
+  "description": "Chapter 02 code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadozy/NodeJsSteveGrider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadozy/NodeJsSteveGrider/issues"
+  },
+  "homepage": "https://github.com/vadozy/NodeJsSteveGrider#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "webworker-threads": "^0.7.17"
+  }
+}
